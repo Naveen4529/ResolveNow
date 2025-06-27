@@ -17,7 +17,7 @@ This system provides a centralized platform for customers, agents, and admins to
 ## 📷 Application Screenshots
 
 ### 1. Landing Page  
-"C:\Users\Teja\Downloads\Landing Page.png"
+![Landing Page](image/landing.png)
 
 ### 2. Login Page  
 ![Login Page](images/login.png)
