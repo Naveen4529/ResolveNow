@@ -17,22 +17,22 @@ This system provides a centralized platform for customers, agents, and admins to
 ## 📷 Application Screenshots
 
 ### 1. Landing Page  
-![Landing Page](image/landing.png)
+![Landing Page](ResolveNow/landing.png)
 
 ### 2. Login Page  
-![Login Page](images/login.png)
+![Login Page](ResolveNow/login.png)
 
 ### 3. Registration Page  
-![Registration Page](images/registration.png)
+![Registration Page](ResolveNow/registration.png)
 
 ### 4. User Dashboard  
-![User Dashboard](images/user-dashboard.png)
+![User Dashboard](ResolveNow/user-dashboard.png)
 
 ### 5. Admin Dashboard  
-![Admin Dashboard](images/admin-dashboard.png)
+![Admin Dashboard](ResolveNow/admin-dashboard.png)
 
 ### 6. Agent Dashboard  
-![Agent Dashboard](images/agent-dashboard.png)
+![Agent Dashboard](ResolveNow/agent-dashboard.png)
 
 > *You can update these image links to your GitHub image URLs after uploading screenshots.*
 
@@ -123,7 +123,7 @@ Open your browser and visit:
 
 ## 📊 ER Diagram
 
-![ER Diagram](images/er-diagram.png)
+![ER Diagram](ResolveNow/er-diagram.png)
 
 ---
 
