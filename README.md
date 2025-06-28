@@ -138,7 +138,7 @@ Open your browser and visit:
 
 ## 🎬 Demo
 
-- 🔗 [**Video Demo**](https://drive.google.com/open?id=1tfu0NUkOlPtEg_64mtWlc0qZG0EOxUde&usp=drive_copy)
+- 🔗 [**Video Demo**](https://drive.google.com/file/d/12bi-hbIGMBVRO2lTE0btgX9ZqeeNCdX3/view?usp=drive_link)
   
 
 ---
