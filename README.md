@@ -123,7 +123,7 @@ Open your browser and visit:
 
 ## 📊 ER Diagram
 
-![ER Diagram](ResolveNow/ER-Diagram.png)
+![ER Diagram](ResolveNow/ER-Diagram.jpeg)
 
 ---
 
