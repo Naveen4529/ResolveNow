@@ -139,7 +139,7 @@ Open your browser and visit:
 
 ## 🎬 Demo
 
-- 🔗 [**Video Demo**](https://drive.google.com/file/d/1YwXaHRBZJL_V7dcEK8SOmtPWZasAxccm/view?usp=drive_link)
+- 🔗 [**Video Demo**](https://drive.google.com/open?id=1tfu0NUkOlPtEg_64mtWlc0qZG0EOxUde&usp=drive_copy)
 - 📁 [**All Media & Source Links**](https://drive.google.com/drive/folders/1uGwb-keRJCab88xNFCD4EoXzZsDChZe3)
 
 ---
