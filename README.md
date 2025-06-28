@@ -26,13 +26,13 @@ This system provides a centralized platform for customers, agents, and admins to
 ![Registration Page](ResolveNow/RegistrationPage.png)
 
 ### 4. User Dashboard  
-![User Dashboard](ResolveNow/User-DashboardPage.png)
+![User Dashboard](ResolveNow/User-Dashboard.png)
 
 ### 5. Admin Dashboard  
-![Admin Dashboard](ResolveNow/Admin-DashboardPage.png)
+![Admin Dashboard](ResolveNow/Admin-Dashboard.png)
 
 ### 6. Agent Dashboard  
-![Agent Dashboard](ResolveNow/Agent-DashboardPage.png)
+![Agent Dashboard](ResolveNow/Agent-Dashboard.png)
 
 > *You can update these image links to your GitHub image URLs after uploading screenshots.*
 
@@ -123,7 +123,7 @@ Open your browser and visit:
 
 ## 📊 ER Diagram
 
-![ER Diagram](ResolveNow/er-diagram.png)
+![ER Diagram](ResolveNow/ER-Diagram.png)
 
 ---
 
