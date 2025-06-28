@@ -139,8 +139,8 @@ Open your browser and visit:
 ## 🎬 Demo
 
 - 🔗 [**Video Demo**](https://drive.google.com/file/d/11-UvqSIu_LVc61Srqdizqt8WfYbh5s1b/view?usp=drive_link)
-- 🔗 [**Document**](https://docs.google.com/document/d/1vMMQv0wPO72WTMRR4mWcudgpw7x5Atiy/edit?usp=drive_link&ouid=113109829555263341080&rtpof=true&sd=true)
-  
+- 🔗 [**Document**](https://docs.google.com/document/d/1dRYuAslZC_-7CVmUAaObpr0P50AnTaKL/edit?usp=drive_link&ouid=113109829555263341080&rtpof=true&sd=true)
+-  🔗[**All media**](https://drive.google.com/drive/folders/10DLOLcn0JYgJdLlW1GIfSoaC1Qfa6KGL?usp=drive_link) 
 
 ---
 
