@@ -17,13 +17,13 @@ This system provides a centralized platform for customers, agents, and admins to
 ## 📷 Application Screenshots
 
 ### 1. Landing Page  
-![Landing Page](ResolveNow/LandingPage.png)
+![Landing Page](ResolveNow/Landing.png)
 
 ### 2. Login Page  
-![Login Page](ResolveNow/LoginPage.png)
+![Login Page](ResolveNow/Login.png)
 
 ### 3. Registration Page  
-![Registration Page](ResolveNow/RegistrationPage.png)
+![Registration Page](ResolveNow/Registration.png)
 
 ### 4. User Dashboard  
 ![User Dashboard](ResolveNow/User-Dashboard.png)
